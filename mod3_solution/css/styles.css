@@ -1,0 +1,12 @@
+#main-title{
+    text-align: center;
+    font-size: 2em;
+}
+
+.navbar-title a{
+    font-size: 2em;
+}
+
+.navbar-title a:hover{
+    text-decoration: none;
+}
